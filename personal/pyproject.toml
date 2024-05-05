@@ -1,0 +1,15 @@
+[project]
+name = "belajar-python-4"
+version = "0.1.0"
+description = "Belajar Python Distribution"
+authors = [
+    {name = "Kyomel", email = "michaellapandio04@gmail.com"},
+]
+dependencies = []
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
